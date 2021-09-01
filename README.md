@@ -15,7 +15,7 @@ The code consists of Rest Web Services built with Spring Boot, JPA and Hibernate
 - [**H2**](https://www.h2database.com/html/main.html) - for database integration testing;
 - [**PostgreSQL**](https://www.postgresql.org/) - for database;
 - [**Postman**](https://www.postman.com/) - for API development testing;
-- [**Heroku**](https://heroku.co) - for deployment and production testing;
+- [**Heroku**](https://heroku.co) - for deployment and production testing.
 
 ## 💻 Running
 
